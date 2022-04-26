@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tfouquert@gmail.com
+	name = Thomas Fouquert
